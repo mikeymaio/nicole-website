@@ -12,7 +12,7 @@
 
 .heroImage img,
 .heroImage picture img {
-  object-position: right bottom !important;
+  /* object-position: right bottom !important; */
 }
 
 .heroDetails {
